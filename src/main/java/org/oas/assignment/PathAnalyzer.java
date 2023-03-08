@@ -1,4 +1,4 @@
-package org.example;
+package org.oas.assignment;
 
 public class PathAnalyzer {
 

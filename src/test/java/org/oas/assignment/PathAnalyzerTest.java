@@ -1,4 +1,4 @@
-package org.example;
+package org.oas.assignment;
 
 import org.junit.jupiter.api.Test;
 

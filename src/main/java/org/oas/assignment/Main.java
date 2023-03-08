@@ -1,4 +1,4 @@
-package org.example;
+package org.oas.assignment;
 
 public class Main {
     public static void main(String[] args) {
